@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Andrei Kolomõtsev, matriklinumber on 193392IADB</h1>
+<h2>Natuke enda kohta:</h2>
+<p>TUT TVOI TEXT.</p>
+
+<h3>Link to Taltech site.:</h3>
+<a href="http://www.ttu.ee/%22%3Etaltech</a>
+
+<h3> A little bit of history:</h3>
+
+<table border="1">
+  <tr>
+    <th>Year</th>
+    <th>Event</th>
+  </tr>
+  <tr>
+    <td>1939</td>
+    <td>WW 2 start</td>
+  </tr>
+  <tr>
+    <td>1945</td>
+    <td>WW 2 end</td>
+  </tr>
+</table>
+
+<h2>The picture of 21st century world</h2>
+<img src="https://www.tristartechsolutions.co.uk/wp-content/uploads/2016/05/xiStock_000026235680_Small.jpg.pagespeed.ic.1V_hbIpZGc.webp%22%3E
+
+</body>
+</html>
